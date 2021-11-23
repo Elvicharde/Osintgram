@@ -1,0 +1,11 @@
+Collecting gnureadline
+  Using cached gnureadline-8.0.0.tar.gz (3.1 MB)
+Building wheels for collected packages: gnureadline
+  Building wheel for gnureadline (setup.py): started
+  Building wheel for gnureadline (setup.py): finished with status 'error'
+  Running setup.py clean for gnureadline
+Failed to build gnureadline
+Installing collected packages: gnureadline
+    Running setup.py install for gnureadline: started
+    Running setup.py install for gnureadline: finished with status 'done'
+Successfully installed gnureadline-8.0.0
